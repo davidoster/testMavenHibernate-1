@@ -1,0 +1,11 @@
+springmvc/configuration/MyHibernateConfig.class
+springmvc/configuration/ServletInitializer.class
+springmvc/models/Product.class
+springmvc/dao/ProductDaoImpl.class
+springmvc/service/ProductServiceImpl.class
+springmvc/dao/AbstractDao.class
+springmvc/models/Products.class
+springmvc/service/ProductService.class
+springmvc/controller/MyController.class
+springmvc/dao/ProductDao.class
+springmvc/configuration/MyWebConfig.class
